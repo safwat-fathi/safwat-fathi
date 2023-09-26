@@ -6,6 +6,7 @@ I’m currently learning full-stack web development.
 
 ## Reach me 
 
+- [My website](https://safwat-fathi.me/)
 - 📨 Gmail: safwat.rashwan@gmail.com
 - 👨‍💼 [Linkedin](https://www.linkedin.com/in/safwat-fathi/)
 <!---
