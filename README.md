@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/safwat-fathi/safwat-fathi/output/snake.svg" alt="Snake animation" />
-
-###
